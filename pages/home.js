@@ -5,9 +5,9 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Rootpage</title>
+        <title>Homepage</title>
       </Head>
-      <h1 className={styles.heading}>Rootpage</h1>
+      <h1 className={styles.heading}>Homepage</h1>
     </>
   );
 }

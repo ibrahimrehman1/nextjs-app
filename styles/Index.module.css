@@ -1,0 +1,11 @@
+.heading{
+    text-decoration: underline;
+    color: royalblue;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.anchor{
+    color: red;
+    font-weight: bold;
+}
